@@ -1,15 +1,13 @@
 # Bunny Gold Adventure
 
-## Screenshot Game
-
 ### Menu Utama
-![Menu](images/menu.png)
+![Menu](menu.png)
 
 ### Level 1
-![Level 1](images/level1.png)
+![Level 1](level1.png)
 
 ### Level 2
-![Level 2](images/level2.png)
+![Level 2](level2.png)
 
 ### Level 3
-![Level 3](images/level3.png)
+![Level 3](level3.png)
